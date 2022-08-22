@@ -118,10 +118,110 @@ Create a demo web page
 Now i am exploring the webpage documentation and its features
 ```
 
-### :arrow_right: *DAY 17 (07/08/2022)*
+### :arrow_right: *DAY 17 (04/08/2022)*
+
+```
+Create a demo web page
+Now i am exploring the webpage documentation and its features
+
+```
+
+### :arrow_right: DAY 28 (05/08/2022)
+
+```
+Working on webpage
+use frontend tool of webpag
+```
+
+### :arrow_right: *DAY 19 (06/08/2022)*
 
 ```
 Saturday seminar
 understand the use of make command
 how we can write script of it
+```
+
+### :arrow_right: DAY 20 (07/08/2022)
+
+```
+Sunday
+```
+
+### :arrow_right: DAY 21 (10/08/2022)
+
+```
+### Tasks given by satinderpal sir
+
+1.User upload on gne1.gndec.ac.in
+2.Teacher upload on gne1.gndec.ac.in
+3.Report system
+4. Grade system or Grade Diary
+5. Attendance
+
+     Implement tasks on moodle.
+```
+
+
+### :arrow_right: *DAY 22 (11/08/2022)*
+
+```
+Raksha Bandhan
+Started uploading users on gne1.gndec.ac.in
+
+```
+
+### :arrow_right: *DAY 23 (12/08/2022)*
+
+```
+uploaded users on gne1.gndec.ac.in
+works on Grade system.
+```
+
+
+### :arrow_right: *DAY 24 (13/08/2022)*
+
+```
+Read about moodle and started installing it in ubuntu localhost machine.
+```
+
+### :arrow_right: *DAY 25 (14/08/2022O)
+
+```
+Sunday
+```
+
+### :arrow_right: *DAY 26 (15/08/2022)*
+
+```
+ Happy Independence Day [ 75th ]
+ Work From Home
+ Installed moodle sucessfully after resolving the errors and there after i started exploring it.
+```
+
+### :arrow_right: *DAY 27 (16/08/2022)*
+
+```
+Started working on the moodle and learn about plugins in moodle.
+```
+
+
+
+### :arrow_right: *DAY 28 (17/08/2022)*
+```
+Got error while installing plugins in moodle and then after some research i resolved error and installed attendance plugin.
+on gne1.gndec.ac.in enrolled editible teacher.
+Add assignment and quiz activity and gave demo in Nankana Sahib School.
+```
+
+### :arrow_right: *DAY 29 (21/08/2022)*
+
+```
+Sunday
+```
+
+### :arrow_right: *DAY 30 (22/08/2022)*
+
+```
+Installed vpl plugin in moodle localhost and explpored the vpl(virtual programming lab).
+Uploaded the updated Teachers data in gne1.gndec.ac.in
 ```
