@@ -13,15 +13,21 @@ when there was any problem in the execution of any command I refer to Stackoverf
 This activity  took about one day.
 ```
 
+## :arrow_right: *DAY 2 (16/07/2022)*
 
-## :arrow_right: *DAY 2 (18/07/2022)*
+```
+Learned the basic linux commands.
+```
+
+
+## :arrow_right: *DAY 3 (18/07/2022)*
 
 ```
 Read about the frappe framework, its functionalities and advantage along with its installation process.
 Beside that looked over the lamp that was told to install earlier.
 ```
 
-## :arrow_right: *DAY 3 (19/07/2022)*
+## :arrow_right: *DAY 4 (19/07/2022)*
 
 ```
 Went on to the frappe framework offficial page and headed with the  installation process and kept on recovering the erros. 
@@ -30,7 +36,7 @@ The then used instructionn manual was(https://github.com/D-codE-Hub/Guide-to-Ins
 ```
 
 
-##  :arrow_right: *DAY 4/DAY 5/DAY 6 (20/07/2022 to 22/072022)*
+##  :arrow_right: *DAY 5/DAY 6/DAY 7 (20/07/2022 to 22/072022)*
 
 ```
 As the frappe was installed, the futher reading process about the usage of the framework was done. 
@@ -38,39 +44,39 @@ The LIBERARY MANAGMENT SYSTEM was initialted and the doctypes were created, besi
 This took us 2 days.
 ```
 
-##  :arrow_right: *DAY 7 (23/07/2022)*
+##  :arrow_right: *DAY 8 (23/07/2022)*
 
 ```2)
 Today i go through the some steps of Library Management and implement in frameframework.
 ```
 
-##  :arrow_right: *DAY 8 (25/07/2022)*
+##  :arrow_right: *DAY 9 (25/07/2022)*
 
 ```
 Today i go through the library managements features like- Library Membership,Linked Doctypes,Controller validation for membership, Library Transaction, Library Settings and some features of form scripts.  
 ```
 
-##  :arrow_right: *DAY 9 (26/07/2022)*
+##  :arrow_right: *DAY 10 (26/07/2022)*
 
 ```
 Today i am completing all the steps of Library Management System like- create a doctype, doctype features, controllers methods, types of doctype, form 
 scripts and so on.
 ```
 
-##  :arrow_right: *DAY 10 (27/07/2022)*
+##  :arrow_right: *DAY 11 (27/07/2022)*
 
 ```
 Today i am completed the frappe Library Management and view the articles and articles list on web pages.
 ```
 
 
-## :arrow_right: *DAY 11 (28/07/2022)*
+## :arrow_right: *DAY 12 (28/07/2022)*
 
 ```
 Full review on library management system
 ```
 
-## :arrow_right: *DAY 12 (29/07/2022)*
+## :arrow_right: *DAY 13 (29/07/2022)*
 
 ```
 * Install Conda and create virtual environment
@@ -80,14 +86,14 @@ Full review on library management system
 * Install Erpnext -V 13
 ```
 
-## :arrow_right: *DAY 13 (30/07/2022)*
+## :arrow_right: *DAY 14 (30/07/2022)*
 
 ```
 Today seminar off because our Infosys SP & DSE Exam
 Prepare for Exam
 ```
 
-# :arrow_right: *DAY 14 (1/08/2022)*
+# :arrow_right: *DAY 15 (1/08/2022)*
 
 ```
 Reading Education Domain.
@@ -105,20 +111,20 @@ Reading Education Domain.
 * Education Settings
 ```
 
-## :arrow_right: *DAY 15 (2/08/2022)*
+## :arrow_right: *DAY 16 (2/08/2022)*
 
 ```
 Implement education domain in test server (gne11.gndec.ac.in)
 ```
 
-### :arrow_right: *DAY 16 (03/08/2022)*
+### :arrow_right: *DAY 17 (03/08/2022)*
 
 ```
 Create a demo web page
 Now i am exploring the webpage documentation and its features
 ```
 
-### :arrow_right: *DAY 17 (04/08/2022)*
+### :arrow_right: *DAY 18 (04/08/2022)*
 
 ```
 Create a demo web page
@@ -126,14 +132,14 @@ Now i am exploring the webpage documentation and its features
 
 ```
 
-### :arrow_right: DAY 28 (05/08/2022)
+### :arrow_right: DAY 19 (05/08/2022)
 
 ```
 Working on webpage
 use frontend tool of webpag
 ```
 
-### :arrow_right: *DAY 19 (06/08/2022)*
+### :arrow_right: *DAY 20 (06/08/2022)*
 
 ```
 Saturday seminar
@@ -141,13 +147,13 @@ understand the use of make command
 how we can write script of it
 ```
 
-### :arrow_right: DAY 20 (07/08/2022)
+### :arrow_right: DAY 21 (07/08/2022)
 
 ```
 Sunday
 ```
 
-### :arrow_right: DAY 21 (10/08/2022)
+### :arrow_right: DAY 22 (10/08/2022)
 
 ```
 ### Tasks given by satinderpal sir
@@ -162,7 +168,7 @@ Sunday
 ```
 
 
-### :arrow_right: *DAY 22 (11/08/2022)*
+### :arrow_right: *DAY 23 (11/08/2022)*
 
 ```
 Raksha Bandhan
@@ -170,7 +176,7 @@ Started uploading users on gne1.gndec.ac.in
 
 ```
 
-### :arrow_right: *DAY 23 (12/08/2022)*
+### :arrow_right: *DAY 24 (12/08/2022)*
 
 ```
 uploaded users on gne1.gndec.ac.in
@@ -178,19 +184,19 @@ works on Grade system.
 ```
 
 
-### :arrow_right: *DAY 24 (13/08/2022)*
+### :arrow_right: *DAY 25 (13/08/2022)*
 
 ```
 Read about moodle and started installing it in ubuntu localhost machine.
 ```
 
-### :arrow_right: *DAY 25 (14/08/2022O)
+### :arrow_right: *DAY 26 (14/08/2022O)
 
 ```
 Sunday
 ```
 
-### :arrow_right: *DAY 26 (15/08/2022)*
+### :arrow_right: *DAY 27 (15/08/2022)*
 
 ```
  Happy Independence Day [ 75th ]
@@ -198,7 +204,7 @@ Sunday
  Installed moodle sucessfully after resolving the errors and there after i started exploring it.
 ```
 
-### :arrow_right: *DAY 27 (16/08/2022)*
+### :arrow_right: *DAY 28 (16/08/2022)*
 
 ```
 Started working on the moodle and learn about plugins in moodle.
@@ -206,20 +212,20 @@ Started working on the moodle and learn about plugins in moodle.
 
 
 
-### :arrow_right: *DAY 28 (17/08/2022)*
+### :arrow_right: *DAY 29 (17/08/2022)*
 ```
 Got error while installing plugins in moodle and then after some research i resolved error and installed attendance plugin.
 on gne1.gndec.ac.in enrolled editible teacher.
 Add assignment and quiz activity and gave demo in Nankana Sahib School.
 ```
 
-### :arrow_right: *DAY 29 (21/08/2022)*
+### :arrow_right: *DAY 30 (21/08/2022)*
 
 ```
 Sunday
 ```
 
-### :arrow_right: *DAY 30 (22/08/2022)*
+### :arrow_right: *DAY 31 (22/08/2022)*
 
 ```
 Installed vpl plugin in moodle localhost and explpored the vpl(virtual programming lab).
