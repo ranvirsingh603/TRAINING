@@ -156,7 +156,7 @@ Sunday
 ### :arrow_right: DAY 22 (10/08/2022)
 
 ```
-### Tasks given by satinderpal sir
+Tasks given by satinderpal sir
 
 1.User upload on gne1.gndec.ac.in
 2.Teacher upload on gne1.gndec.ac.in
