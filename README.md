@@ -93,7 +93,7 @@ Today seminar off because our Infosys SP & DSE Exam
 Prepare for Exam
 ```
 
-# :arrow_right: *DAY 15 (1/08/2022)*
+## :arrow_right: *DAY 15 (1/08/2022)*
 
 ```
 Reading Education Domain.
@@ -117,14 +117,14 @@ Reading Education Domain.
 Implement education domain in test server (gne11.gndec.ac.in)
 ```
 
-### :arrow_right: *DAY 17 (03/08/2022)*
+## :arrow_right: *DAY 17 (03/08/2022)*
 
 ```
 Create a demo web page
 Now i am exploring the webpage documentation and its features
 ```
 
-### :arrow_right: *DAY 18 (04/08/2022)*
+## :arrow_right: *DAY 18 (04/08/2022)*
 
 ```
 Create a demo web page
@@ -132,14 +132,14 @@ Now i am exploring the webpage documentation and its features
 
 ```
 
-### :arrow_right: DAY 19 (05/08/2022)
+## :arrow_right: DAY 19 (05/08/2022)
 
 ```
 Working on webpage
 use frontend tool of webpag
 ```
 
-### :arrow_right: *DAY 20 (06/08/2022)*
+## :arrow_right: *DAY 20 (06/08/2022)*
 
 ```
 Saturday seminar
@@ -147,13 +147,13 @@ understand the use of make command
 how we can write script of it
 ```
 
-### :arrow_right: DAY 21 (07/08/2022)
+## :arrow_right: DAY 21 (07/08/2022)
 
 ```
 Sunday
 ```
 
-### :arrow_right: DAY 22 (10/08/2022)
+## :arrow_right: DAY 22 (10/08/2022)
 
 ```
 Tasks given by satinderpal sir
@@ -168,7 +168,7 @@ Tasks given by satinderpal sir
 ```
 
 
-### :arrow_right: *DAY 23 (11/08/2022)*
+## :arrow_right: *DAY 23 (11/08/2022)*
 
 ```
 Raksha Bandhan
@@ -176,7 +176,7 @@ Started uploading users on gne1.gndec.ac.in
 
 ```
 
-### :arrow_right: *DAY 24 (12/08/2022)*
+## :arrow_right: *DAY 24 (12/08/2022)*
 
 ```
 uploaded users on gne1.gndec.ac.in
@@ -184,19 +184,19 @@ works on Grade system.
 ```
 
 
-### :arrow_right: *DAY 25 (13/08/2022)*
+## :arrow_right: *DAY 25 (13/08/2022)*
 
 ```
 Read about moodle and started installing it in ubuntu localhost machine.
 ```
 
-### :arrow_right: *DAY 26 (14/08/2022O)
+## :arrow_right: *DAY 26 (14/08/2022O)
 
 ```
 Sunday
 ```
 
-### :arrow_right: *DAY 27 (15/08/2022)*
+## :arrow_right: *DAY 27 (15/08/2022)*
 
 ```
  Happy Independence Day [ 75th ]
@@ -204,7 +204,7 @@ Sunday
  Installed moodle sucessfully after resolving the errors and there after i started exploring it.
 ```
 
-### :arrow_right: *DAY 28 (16/08/2022)*
+## :arrow_right: *DAY 28 (16/08/2022)*
 
 ```
 Started working on the moodle and learn about plugins in moodle.
@@ -212,38 +212,39 @@ Started working on the moodle and learn about plugins in moodle.
 
 
 
-### :arrow_right: *DAY 29 (17/08/2022)*
+## :arrow_right: *DAY 29 (17/08/2022)*
 ```
 Got error while installing plugins in moodle and then after some research i resolved error and installed attendance plugin.
 on gne1.gndec.ac.in enrolled editible teacher.
 Add assignment and quiz activity and gave demo in Nankana Sahib School.
 ```
 
-### :arrow_right: *DAY 30 (21/08/2022)*
+## :arrow_right: *DAY 30 (21/08/2022)*
 
 ```
 Sunday
 ```
 
-### :arrow_right: *DAY 31 (22/08/2022)*
+## :arrow_right: *DAY 31 (22/08/2022)*
 
 ```
 Installed vpl plugin in moodle localhost and explpored the vpl(virtual programming lab).
 Uploaded the updated Teachers data in gne1.gndec.ac.in
 ```
 
-### :arrow_right: *DAY  (29/08/2022)*
+
+## :arrow_right: *DAY 32  (29/08/2022)*
 
 ```
-satinder sir gave task to show gradebook from Moodle to ERP and export the database from Moodle database. And I learned about the database. Started installing phpmyadmin but stuck with a error.
+Satinder sir gave task to show gradebook from Moodle to ERP and export the database from Moodle database. And I learned about the database. Started installing phpmyadmin but stuck with a error.
 ```
 
-### :arrow_right: *Day  (30/08/2022)*
+## :arrow_right: *Day 33 (30/08/2022)*
 ```
-successfully dumped and exported from Moodle database after resolving error.And find a way to show only particular user grade from whole database. Successfully installed phpmyadmin and explored it.
+Successfully dumped and exported from Moodle database after resolving error.And find a way to show only particular user grade from whole database. Successfully installed phpmyadmin and explored it.
 ```
 
-### :arrow_right: *Day  (31/08/2022)*
+## :arrow_right: *Day 34 (31/08/2022)*
 ```
  I learned about the logs in MySQL.
 And then i enable it by remove the comments of from mariadb.conf.d/50-server.cnf .
@@ -251,27 +252,27 @@ Then we found two tables "grades" and
 " courses" now started founding course overview in which we get both courses and grades in the same table.
 ```
 
-### :arrow_right: *Day  (01/09/2022)*
+## :arrow_right: *Day 35 (01/09/2022)*
 ```
-still finding the gradebook query as sir told to find the exact single query. But able to find the exact query for the courses.
-```
-
-### :arrow_right: *Day  (02/09/2022)*
-```
-task is given by satinder sir to enable the payment transaction in erpnext and generate the fee structure for the student fee, 1st sibling, 2nd sibling and gill donor. 
+Still finding the gradebook query as sir told to find the exact single query. But able to find the exact query for the courses.
 ```
 
-### :arrow_right: *Day  (03/09/2022)*
+## :arrow_right: *Day 36 (02/09/2022)*
 ```
-found a exact query to show gradebook for mysql. Now learning how to dump that table generated by query. Now adding the 2 more columns in same table and create new table for storing that data. I have uploaded the sal files in GitHub.
+Task is given by satinder sir to enable the payment transaction in erpnext and generate the fee structure for the student fee, 1st sibling, 2nd sibling and gill donor. 
 ```
 
-### :arrow_right: *Day  (04/09/2022)*
+## :arrow_right: *Day 37 (03/09/2022)*
+```
+Found a exact query to show gradebook for mysql. Now learning how to dump that table generated by query. Now adding the 2 more columns in same table and create new table for storing that data. I have uploaded the sal files in GitHub.
+```
+
+## :arrow_right: *Day 38 (04/09/2022)*
 ```
 Sunday
 ```
 
-### :arrow_right: *Day  (05/09/2022)*
+## :arrow_right: *Day 39 (05/09/2022)*
 ```
 Add two more columns in that table and store that data in new table named gradebook and add that files on github in CSV and MySQL format.
 ```
