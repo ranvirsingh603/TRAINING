@@ -487,11 +487,6 @@ accounts.
 
 
 
-## :arrow_right: *Day 65 (04/10/2022)*
-```
-
-
-
 ## :arrow_right: *Day 66 (06/10/2022)*
 ```
 Today i am going to do the Sales order in the Selling section. Firstly add the sales order which include the information
@@ -646,7 +641,7 @@ Sir said me to make library management card in education workspace. I had succes
 ```
 Sir gave me to modify Library Transaction. The work is that if we select type as Return and Enter library member and it should automatically fetch the
 article that was issued to that number. and make fine in libray transaction doctype. if member have to return book then only fine part is shown.Now i am working on that.
-
+```
 
 
 ## :arrow_right: *Day 88 (17/11/2022)*
@@ -694,7 +689,7 @@ Sunday
 ## :arrow_right: *DAY 92/DAY 93/DAY 94/ Day 95 (21/11/2022 to 25/11/2022)*
 ```
 Sir said me to shift Library management system from localhost to gne2.gndec.ac.in. Now i am working on this doing all the stuff manually from starting.
-
+```
 
 
 ## :arrow_right: *Day 96 (26/11/2022)*
@@ -706,7 +701,7 @@ Now fine is only shown when it is return.
 
 
 
-
+Display Depends On (
 ## :arrow_right: *Day 97 (27/09/2022)*
 ```
 Sunday
@@ -729,7 +724,7 @@ I am using context server script to fetch the value but getting the error.
 
 
 
-## :arrow_right: *Day 100 (02/09/2022)*
+## :arrow_right: *Day 100 (02/12/2022)*
 ```
 Today i edited the code of library transaction i add paid :1 in db_exists so that if the member paid the money only then he/she can issue/return book.
 ```
